@@ -1,0 +1,86 @@
+[
+  {
+    "purchase_order_number": "PO-2025-020",
+    "supplier": "Global Supplies Ltd",
+    "items": [
+      {
+        "item_code": "ITM-5001",
+        "item_name": "Glass Bottles",
+        "batch_number": "BATCH-020-A",
+        "quantity": 400
+      },
+      {
+        "item_code": "ITM-6001",
+        "item_name": "Aluminum Caps",
+        "batch_number": "BATCH-020-B",
+        "quantity": 200
+      }
+    ]
+  },
+  {
+    "purchase_order_number": "PO-2025-021",
+    "supplier": "Island Imports",
+    "items": [
+      {
+        "item_code": "ITM-5001",
+        "item_name": "Glass Bottles",
+        "batch_number": "BATCH-563-A",
+        "quantity": 600
+      },
+      {
+        "item_code": "ITM-7001",
+        "item_name": "Cork Stoppers",
+        "batch_number": "BATCH-021-B",
+        "quantity": 150
+      }
+    ]
+  },
+  {
+    "purchase_order_number": "PO-2025-022",
+    "supplier": "EuroTech Components",
+    "items": [
+      {
+        "item_code": "ITM-5001",
+        "item_name": "Glass Bottles",
+        "batch_number": "BATCH-022-A",
+        "quantity": 300
+      },
+      {
+        "item_code": "ITM-8001",
+        "item_name": "Microchips",
+        "batch_number": "BATCH-022-B",
+        "quantity": 1000
+      }
+    ]
+  },
+  {
+    "purchase_order_number": "PO-2025-023",
+    "supplier": "Malta Logistics",
+    "items": [
+      {
+        "item_code": "ITM-9001",
+        "item_name": "Plastic Crates",
+        "batch_number": "BATCH-023-A",
+        "quantity": 250
+      },
+      {
+        "item_code": "ITM-9002",
+        "item_name": "Shipping Labels",
+        "batch_number": "BATCH-023-B",
+        "quantity": 500
+      }
+    ]
+  },
+  {
+    "purchase_order_number": "PO-2025-024",
+    "supplier": "Mediterranean Produce Co",
+    "items": [
+      {
+        "item_code": "ITM-10001",
+        "item_name": "Olive Oil Drums",
+        "batch_number": "BATCH-024-A",
+        "quantity": 80
+      }
+    ]
+  }
+]
